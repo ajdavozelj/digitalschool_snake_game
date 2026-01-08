@@ -171,7 +171,7 @@ class Kaca:
 kacica = Kaca([[2,4], [2,5], [2,6]], "right", True)
 mreza = np.zeros((10, 25))
 koordinateHranee = [5,3]
-
+#----
 
 polje = Polje(kacica, mreza, koordinateHranee)
 #print(polje)
